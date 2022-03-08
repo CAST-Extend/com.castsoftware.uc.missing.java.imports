@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.missing.java.imports</id>
+    <version>1.0.5</version>
+    <title>Missing Imports for Java</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-UserCommunity-1.0.html</licenseUrl>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.missing.java.imports/wiki</projectUrl>
+    <iconUrl>https://github.com/CAST-Extend/com.castsoftware.uc.missing.dotnet.imports/blob/main/Missing_Source_File.png?raw=true</iconUrl>
+    <description>Handles missing imports for Java</description>
+    <releaseNotes>https://github.com/CAST-Extend/com.castsoftware.uc.missing.java.imports/wiki#versions</releaseNotes>
+    <tags>Missing Source CAIP8.3 techno:JEE</tags>
+    <dependencies>
+      <dependency id="CAIP" version="8.3.3" />
+    </dependencies>
+  </metadata>
+</package>

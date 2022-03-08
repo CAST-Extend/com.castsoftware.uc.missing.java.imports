@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<metaModel file_level="client" file_no="118">
+    <type name="UnknownJavaClass" rid="0">
+        <description>Missing Java Class</description>
+        <inheritedCategory name="UAObject" />	
+        <inheritedCategory name="METRICABLE" />
+        <attribute name="AUTO_FOLDER_THRESHOLD" intValue="1"/>
+        <!-- <tree parent="EnlightenSQLScript" category="EnlightenTree" /> -->
+    </type>
+ 
+</metaModel>
